@@ -162,3 +162,8 @@ predictionassignmet <- function(){
 
 ```
 
+## Conclusions
+
+In practice, we could have tried other methods, however since Random Forests scored out of sample error and error estimation as zero, I decided not to. 
+
+The out of sample error and the error estimation are close to 
